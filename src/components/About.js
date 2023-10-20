@@ -8,11 +8,11 @@ const About = () => {
 
       <h2>About Me</h2>
       <p>
-        This is Sumeet Kumar Singh <br></br> 
-        Roll no 62<br></br>
-        I like to play football and take hard challenges in life even thought if i cant accomplish them
+        Hello My name is kunal pal <br></br> 
+        Roll No is 50<br></br>
+        I like to travel and watching and playing cricket too!!
         <br></br>
-        I study in VESIT <br></br>div :d15B branch: Information technology
+        I study in Vivekanand education society eduction of technology <br></br>Div : D15B Branch: Information technology
 
       </p>
       <Link to='/projects'><button>Projects</button></Link>
